@@ -2,7 +2,7 @@ from boto.mturk.connection import MTurkConnection,HIT
 from boto.mturk.question import QuestionContent,Question,QuestionForm,Overview,AnswerSpecification,SelectionAnswer,FormattedContent,FreeTextAnswer
 import requests;
 
-resp = requests.get('https://mb7a42tvij.execute-api.us-east-1.amazonaws.com/prod/allprofiles?limit=100',headers={'x-api-key':'iVd05ZA8Tq8ACokFd0lWD47ceu3PupOv373g7wVj'})
+resp = requests.get('https://mb7a42tvij.execute-api.us-east-1.amazonaws.com/prod/allprofiles?limit=100',headers={'x-api-key':'ihkjhjkh'})
 
 
 print(resp.json())

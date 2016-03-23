@@ -3,8 +3,8 @@ from boto.mturk.question import QuestionContent,Question,QuestionForm,Overview,A
 import requests;
 
 
-ACCESS_ID ='AKIAI5H7LRLSIPSC244A'
-SECRET_KEY = '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'
+ACCESS_ID ='YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+SECRET_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 HOST = 'mechanicalturk.sandbox.amazonaws.com'
 mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
                       aws_secret_access_key=SECRET_KEY,
